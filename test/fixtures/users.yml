@@ -3,3 +3,9 @@ samantha:
   last_name: "Geitz"
   email: "samanthamichele7@gmail.com"
   profile_name: "samanthamichele7"
+
+john:
+  first_name: "John"
+  last_name: "Doe"
+  email: "john@doe.com"
+  profile_name: "johndoe"
